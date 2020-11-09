@@ -1,0 +1,12 @@
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.deps.json
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csprojAssemblyReference.cache
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfoInputs.cache
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfo.cs
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.json
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.dev.json
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.genruntimeconfig.cache
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\Ohran\Documents\GitHub\Internship-exam-2020\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CoreCompileInputs.cache
